@@ -1,0 +1,6 @@
+frmMain = 110, 130, 678, 575, C, 154, 154, 722, 599, C
+frmUnloading = 22, 22, 590, 467, C, 110, 110, 678, 555, C
+frmLoading = 22, 22, 590, 467, C, 176, 176, 744, 621, C
+modEnumChildren = 154, 154, 722, 599, C
+modEnumParents = 154, 154, 695, 599, C
+modEnumMenus = 0, 0, 568, 445, C
