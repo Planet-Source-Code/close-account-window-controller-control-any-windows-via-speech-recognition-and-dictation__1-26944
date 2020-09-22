@@ -1,0 +1,3 @@
+VBGROUP 5.0
+Project=prjVoice.vbp
+StartupProject=prjWindowControl.vbp
